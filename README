@@ -1,0 +1,15 @@
+Neste projeto, utilizamos dados históricos de aprovação de alunos para treinar modelos de regressão linear simples e prever a taxa de aprovação para 2017.
+
+Os principais pontos abordados foram:
+
+Análise exploratória dos dados
+Preparação dos dados de treino e teste
+Treinamento de diferentes modelos e avaliação do desempenho
+Escolha do melhor modelo (Regressão Linear)
+Realização da previsão solicitada para 2017
+Análise do erro do modelo com dados hipotéticos
+O modelo apresentou um bom desempenho, com erro inferior a 1pp em relação ao valor hipotético real de 2017.
+
+Este tipo de modelo poderia ser aprimorado com mais dados históricos e também dados sobre fatores que influenciam as taxas de aprovação, como características socioeconômicas dos alunos.
+
+De toda forma, conseguimos entregar uma solução viável dentro do contexto proposto inicialmente. Os conhecimentos aplicados aqui poderão ser úteis em diversos outros problemas de previsão.
