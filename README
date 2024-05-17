@@ -13,3 +13,25 @@ O modelo apresentou um bom desempenho, com erro inferior a 1pp em relação ao v
 Este tipo de modelo poderia ser aprimorado com mais dados históricos e também dados sobre fatores que influenciam as taxas de aprovação, como características socioeconômicas dos alunos.
 
 De toda forma, conseguimos entregar uma solução viável dentro do contexto proposto inicialmente. Os conhecimentos aplicados aqui poderão ser úteis em diversos outros problemas de previsão.
+
+
+
+______________________________________________________________________________________________________________________________________________________
+
+
+
+In this project, we used historical student approval data to train simple linear regression models and predict the approval rate for 2017.
+
+The main points covered were:
+
+Exploratory data analysis
+Preparation of training and testing data
+Training different models and evaluating their performance
+Choosing the best model (Linear Regression)
+Making the requested prediction for 2017
+Analyzing the model error with hypothetical data
+The model performed well, with an error of less than 1 percentage point compared to the hypothetical real value for 2017.
+
+This type of model could be improved with more historical data and also data on factors influencing approval rates, such as students' socioeconomic characteristics.
+
+Nonetheless, we managed to deliver a viable solution within the initially proposed context. The knowledge applied here can be useful in various other forecasting problems.
